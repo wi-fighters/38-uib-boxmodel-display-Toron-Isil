@@ -1,0 +1,21 @@
+.fixme1 img {
+  display: flex;
+}
+
+
+div.one, div.two {
+  float: left;
+  padding-right: 10px;
+}
+
+.fixme2 {
+  float: none;
+}
+
+h2 {
+  float: none;
+}
+
+.fixme3 li {
+  display:inline-block;
+}
